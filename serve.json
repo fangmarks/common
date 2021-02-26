@@ -1,0 +1,10 @@
+{
+
+"unlisted": [
+	".vercel",
+	".git",
+	".gitignore",
+	"serve.json"
+]
+
+}
